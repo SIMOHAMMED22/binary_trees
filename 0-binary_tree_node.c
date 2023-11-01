@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * binary_tree_node - function that creates a new node
  * @parent: parent of the node to create
